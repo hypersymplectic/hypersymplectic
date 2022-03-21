@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hypersymplectic
+- 👀 I’m interested in parallelization & numerical optimization
+- 🌱 I’m currently learning Rust and Haskell
